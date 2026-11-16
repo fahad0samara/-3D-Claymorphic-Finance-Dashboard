@@ -1,0 +1,6 @@
+{
+  "name": "FinTrack — 3D Claymorphic Finance Dashboard",
+  "description": "A tactile 3D claymorphic personal finance dashboard for tracking balances, income, expenses, budgets, savings goals, and smart financial insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
